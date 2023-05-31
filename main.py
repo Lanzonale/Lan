@@ -119,7 +119,7 @@ def vgg16D():
 
 
 # 超参设置
-training_epochs = 25
+training_epochs = 100
 batch_size = 512
 learning_rate = 0.1
 momentum = 0.9  # SGD加速动量
